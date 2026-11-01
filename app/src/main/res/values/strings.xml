@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Capsule Island</string>
+    <string name="a11y_description">Zeigt die Capsule Island um das Kameraloch an. Der Dienst wird nur benutzt, um über der Statusleiste zu zeichnen. Es werden keine Bildschirminhalte gelesen.</string>
+</resources>
